@@ -1,4 +1,4 @@
 # Daily Leet Code Challenge
 ## Practicing Leet Code problems in Python
 
-<img src="leet.png" alt="Leet Code Profile">
+<img src="leet.png" height="50px" alt="Leet Code Profile">
